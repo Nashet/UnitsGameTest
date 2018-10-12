@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Nashet.UnitGame
+namespace Nashet.UnitsGameLogic
 {
     [Serializable]
     internal class MapCell : IMapCell

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nashet.UnitGame
+namespace Nashet.UnitsGameLogic
 {
     [Serializable]
     internal class Map : MapView, IMap

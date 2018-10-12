@@ -1,4 +1,4 @@
-﻿namespace Nashet.UnitGame
+﻿namespace Nashet.UnitsGameLogic
 {
     public interface IWorldView
     {

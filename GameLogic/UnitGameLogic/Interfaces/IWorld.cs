@@ -1,5 +1,5 @@
 ﻿using Nashet.GameLogicAbstraction;
-namespace Nashet.UnitGame
+namespace Nashet.UnitsGameLogic
 {
     internal interface IWorld : IWorldView, ISimulatable
     {

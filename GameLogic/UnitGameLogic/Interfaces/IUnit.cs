@@ -1,4 +1,4 @@
-﻿namespace Nashet.UnitGame
+﻿namespace Nashet.UnitsGameLogic
 {
     internal interface IUnit : IUnitView, ISimulatable
     {

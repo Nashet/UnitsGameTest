@@ -1,5 +1,5 @@
 ﻿/// File version - 2.0
-using Nashet.UnitGame;
+using Nashet.UnitsGameLogic;
 namespace Nashet.UnitSelection
 {
     internal interface IMovementTarget

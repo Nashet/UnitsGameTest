@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Nashet.UnitGame
+namespace Nashet.UnitsGameLogic
 {
     public static class ArrayExtensions
     {

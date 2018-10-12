@@ -1,11 +1,11 @@
-﻿using Nashet.UnitGame;
+﻿using Nashet.UnitsGameLogic;
 using Nashet.UnitSelection;
 using Nashet.Utils;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Nashet.NTClient
+namespace Nashet.UnitsGameClient
 {
     /// <summary>
     /// Visualizes units, updates visualization from server data

@@ -1,5 +1,5 @@
 ﻿using Nashet.GameLogicAbstraction;
-using Nashet.UnitGame;
+using Nashet.UnitsGameLogic;
 using Nashet.Utils;
 using System.IO;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Runtime.Serialization.Formatters.Soap;
 using System.Text;
 using UnityEngine;
 
-namespace Nashet.NTClient
+namespace Nashet.UnitsGameClient
 {
     /// <summary>
     /// Visualizes map, and update units..

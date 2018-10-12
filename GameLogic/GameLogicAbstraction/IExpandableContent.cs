@@ -1,4 +1,4 @@
-﻿using Nashet.UnitGame;
+﻿using Nashet.UnitsGameLogic;
 
 namespace Nashet.GameLogicAbstraction
 {

@@ -1,9 +1,9 @@
-﻿using Nashet.UnitGame;
+﻿using Nashet.UnitsGameLogic;
 using Nashet.UnitSelection;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-namespace Nashet.NTClient
+namespace Nashet.UnitsGameClient
 {
     /// <summary>
     /// Represents place where unit can be

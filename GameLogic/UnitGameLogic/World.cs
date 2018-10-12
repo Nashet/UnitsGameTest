@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 
 
-namespace Nashet.UnitGame
+namespace Nashet.UnitsGameLogic
 {
     [Serializable]
     internal class World : WorldView, IWorld

@@ -1,6 +1,6 @@
 ﻿/// File version - 2.0
-using Nashet.NTClient;
-using Nashet.UnitGame;
+using Nashet.UnitsGameClient;
+using Nashet.UnitsGameLogic;
 using System;
 using System.Collections.Generic;
 using UnityEngine;

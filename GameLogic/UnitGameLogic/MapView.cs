@@ -1,9 +1,9 @@
-﻿using Nashet.UnitGame;
+﻿using Nashet.UnitsGameLogic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Nashet.UnitGame
+namespace Nashet.UnitsGameLogic
 {
     [Serializable]
     internal class MapView : IMapView

@@ -10,7 +10,7 @@ using System.Threading;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Nashet.NTClient
+namespace Nashet.UnitsGameClient
 {
     /// <summary>
     /// Deals with sending/receiving data from server

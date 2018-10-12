@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Nashet.UnitGame
+namespace Nashet.UnitsGameLogic
 {
     // Representation of 2D vectors and points.    
     
