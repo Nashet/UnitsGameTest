@@ -65,3 +65,4 @@ $RECYCLE.BIN/
 **/obj/
 **/.vs/
 */Library/
+/UnityClient/Temp/
