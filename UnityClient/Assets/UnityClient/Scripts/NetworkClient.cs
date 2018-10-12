@@ -15,7 +15,7 @@ namespace Nashet.UnitsGameClient
     /// <summary>
     /// Deals with sending/receiving data from server
     /// </summary>
-    public class NTClientTest : MonoBehaviour
+    public class NetworkClient : MonoBehaviour
     {
         protected const int Port = 14242;
         protected const string Host = "localhost";
